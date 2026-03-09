@@ -1,4 +1,5 @@
 AutoMarket Pro
+
 AutoMarket Pro es una aplicación robusta diseñada para gestionar el flujo completo de una compraventa de vehículos. El proyecto abarca desde el modelado relacional de datos hasta la implementación de una API RESTful, permitiendo el control de inventario, usuarios (compradores/vendedores) y transacciones.
 
 🚀 Características Principales
